@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dist">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/solr-4.6.1/dist" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Downloads/solr-4.6.1/dist" recursive="false" />
+  </library>
+</component>

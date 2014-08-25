@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="solrj-lib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/solr-4.6.1/dist/solrj-lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Downloads/solr-4.6.1/dist/solrj-lib" recursive="false" />
+  </library>
+</component>
